@@ -29,5 +29,5 @@ plt.xlabel('Chapter')
 plt.ylabel('# of Mentions')
 plt.title('Character appearances in Bleak House')
 plt.legend(['Esther','Mr. Guppy'])
-plt.show
 plt.savefig('esther.png',dpi=200)
+plt.show
